@@ -1,0 +1,14 @@
+{
+    "name": "introducaonodejs",
+    "description": "Minha primeira aplicação NodeJS",
+    "autor": "Seu Nome <flavio.hsv@gmail.com>",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "4.15.2",
+      "bodyParser": "1.17.1"
+    }
+  }
